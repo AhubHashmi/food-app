@@ -1,1 +1,1 @@
-# react-native-firebasr-map-live-geolocation
+# react-native-firebase-map-live-geolocation
